@@ -119,7 +119,7 @@ export async function setContext(app, context) {
       
       payload: context.payload,
       error: context.error,
-      base: '/erw/page/nuxt/dist/',
+      base: '/erw/page/nuxt2/',
       env: {}
     }
     // Only set once

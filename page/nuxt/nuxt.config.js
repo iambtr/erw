@@ -14,7 +14,7 @@ module.exports = {
     ]
   },
   router: {
-    base: '/erw/page/nuxt/dist/'
+    base: '/erw/page/nuxt2/'
   },
   /*
   ** Customize the progress bar color
